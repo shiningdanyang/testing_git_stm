@@ -1,3 +1,4 @@
-hagfhsdgyafyuiqwer
-akljshdflajksdhfklasjdfh
-asdkfjhasldkfjhaslkdfjh
+function1 
+{
+a= b+c;
+}
