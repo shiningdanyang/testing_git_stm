@@ -1,9 +1,9 @@
 function1 
 {
-kajghfkjasdhfksdjahf
+ajlsidhflasjidfhlaskjdfh
 }
 
 function2
 {
-aksdjfhajlskdhfklajsdhgfklsjfah
+a=b-c
 }
